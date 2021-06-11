@@ -1,0 +1,25 @@
+# Premiers pas en python
+# Exos1:
+t=6.892
+d=19.7
+v=d/t
+print(v)
+2.8583865351131745
+
+
+t=6.892
+d=19.7
+v=d//t
+print(v)
+2.0
+
+# exo2:Saisir un nom et un âge en utilisant l’instruction input()
+a=input('ton nom?')
+ton nom?Saïd
+print(a)
+Saïd
+
+b=input('âge?')
+âge?35
+print(b)
+35
